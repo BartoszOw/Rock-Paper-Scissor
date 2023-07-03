@@ -175,3 +175,7 @@ window.onload=function(){
     playerChoose(rock,paper,scissors)
     
 }
+
+
+
+/* Bartosz Owczarek */
